@@ -1,0 +1,6 @@
+{
+  "name": "SegarMart - Sembako, Sayur & Buah Online, POS & Kurir Otomatis",
+  "description": "Aplikasi belanja sembako, sayur, dan buah segar online dengan pembayaran digital, integrasi kurir otomatis, POS kasir terhubung stok real-time, dan dashboard analitik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
